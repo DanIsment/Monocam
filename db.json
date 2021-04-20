@@ -3,10 +3,12 @@
     {
       "id": 1,
       "datum": "20-05-2020",
-      "tijd": "09.30.00",
+      "begin_tijd": "09.30.00",
+      "eind_tijd": "11.30.00",
       "verbalisant": "160101",
       "locatie": "N229 L hmp 69.7",
-      "gebeurtenis": "gungor",
+      "gebeurtenis": "Afleiding",
+      "controle_middel": "Monocam"
       "passanten": "2300",
       "hits": "10"
       "afgekeurde_hits": "200"
@@ -15,10 +17,12 @@
     {
       "id": 2,
       "datum": "01-03-2021",
-      "tijd": "11.04.12",
+      "begin_tijd": "11.04.12",
+      "eind_tijd": "14.30.00",
       "verbalisant": "160101",
       "locatie": "A16 L hmp 23.7",
-      "gebeurtenis": "gungor",
+      "gebeurtenis": "Afleiding",
+      "controle_middel": "Monocam"
       "passanten": "4279",
       "hits": "23"
       "afgekeurde_hits": "89"
@@ -27,10 +31,12 @@
     {
       "id": 3,
       "datum": "19-05-2020",
-      "tijd": "14.34.28",
+      "begin_tijd": "14.34.28",
+      "eind_tijd": "17.05.00",
       "verbalisant": "160101",
       "locatie": "A27 hmp 45.0",
-      "gebeurtenis": "gungor",
+      "gebeurtenis": "Afleiding",
+      "controle_middel": "Monocam"
       "passanten": "1540",
       "hits": "300"
       "afgekeurde_hits": "40"
@@ -38,10 +44,12 @@
     {
       "id": 4,
       "datum": "18-05-2020",
-      "tijd": "17.22.23",
+      "begin_tijd": "12.03.28",
+      "eind_tijd": "17.27.00",
       "verbalisant": "160101",
       "locatie": "N229 L hmp 69.7",
-      "gebeurtenis": "gungor",
+      "gebeurtenis": "Afleiding",
+      "controle_middel": "Monocam"
       "passanten": "5321",
       "hits": "78"
       "afgekeurde_hits": "123"
