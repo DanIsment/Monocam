@@ -11,7 +11,8 @@
       "controle_middel": "Monocam",
       "passanten": "2300",
       "hits": "10",
-      "afgekeurde_hits": "200"
+      "afgekeurde_hits": "200",
+      "eenheid": "Rotterdam"
       
     },
     {
@@ -25,7 +26,8 @@
       "controle_middel": "Monocam",
       "passanten": "4279",
       "hits": "23",
-      "afgekeurde_hits": "89"
+      "afgekeurde_hits": "89",
+      "eenheid": "Landelijke Eenheid"
       
     },
     {
@@ -39,7 +41,8 @@
       "controle_middel": "Monocam",
       "passanten": "1540",
       "hits": "300",
-      "afgekeurde_hits": "40"
+      "afgekeurde_hits": "40",
+      "eenheid": "Amsterdam"
     },
     {
       "id": 4,
@@ -52,7 +55,8 @@
       "controle_middel": "Monocam",
       "passanten": "5321",
       "hits": "78",
-      "afgekeurde_hits": "123"
+      "afgekeurde_hits": "123",
+      "eenheid": "Noord-Holland"
     }
   ],
   "profile": {
