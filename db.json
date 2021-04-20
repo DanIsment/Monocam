@@ -8,9 +8,9 @@
       "verbalisant": "160101",
       "locatie": "N229 L hmp 69.7",
       "gebeurtenis": "Afleiding",
-      "controle_middel": "Monocam"
+      "controle_middel": "Monocam",
       "passanten": "2300",
-      "hits": "10"
+      "hits": "10",
       "afgekeurde_hits": "200"
       
     },
@@ -22,9 +22,9 @@
       "verbalisant": "160101",
       "locatie": "A16 L hmp 23.7",
       "gebeurtenis": "Afleiding",
-      "controle_middel": "Monocam"
+      "controle_middel": "Monocam",
       "passanten": "4279",
-      "hits": "23"
+      "hits": "23",
       "afgekeurde_hits": "89"
       
     },
@@ -36,9 +36,9 @@
       "verbalisant": "160101",
       "locatie": "A27 hmp 45.0",
       "gebeurtenis": "Afleiding",
-      "controle_middel": "Monocam"
+      "controle_middel": "Monocam",
       "passanten": "1540",
-      "hits": "300"
+      "hits": "300",
       "afgekeurde_hits": "40"
     },
     {
@@ -49,9 +49,9 @@
       "verbalisant": "160101",
       "locatie": "N229 L hmp 69.7",
       "gebeurtenis": "Afleiding",
-      "controle_middel": "Monocam"
+      "controle_middel": "Monocam",
       "passanten": "5321",
-      "hits": "78"
+      "hits": "78",
       "afgekeurde_hits": "123"
     }
   ],
