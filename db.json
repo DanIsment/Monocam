@@ -58,6 +58,20 @@
       "afgekeurde_hits": "123",
       "eenheid": "Noord-Holland"
     }
+    {
+      "id": 5,
+      "datum": "18-05-2020",
+      "begin_tijd": "12.03.28",
+      "eind_tijd": "17.27.00",
+      "verbalisant": "2341005",
+      "locatie": "N229 L hmp 69.7",
+      "gebeurtenis": "Afleiding",
+      "controle_middel": "Monocam",
+      "passanten": "5321",
+      "hits": "78",
+      "afgekeurde_hits": "123",
+      "eenheid": "Landelijke Eenheid"
+    }
   ],
   "profile": {
     "name": "typicode"
