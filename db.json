@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "datum": "20-05-2020",
+      "controle_datum": "20-05-2020",
       "begin_tijd": "09.30.00",
       "eind_tijd": "11.30.00",
       "verbalisant": "160101",
@@ -17,7 +17,7 @@
     },
     {
       "id": 2,
-      "datum": "01-03-2021",
+      "controle_datum": "01-03-2021",
       "begin_tijd": "11.04.12",
       "eind_tijd": "14.30.00",
       "verbalisant": "160101",
@@ -32,7 +32,7 @@
     },
     {
       "id": 3,
-      "datum": "19-05-2020",
+      "controle_datum": "19-05-2020",
       "begin_tijd": "14.34.28",
       "eind_tijd": "17.05.00",
       "verbalisant": "160101",
@@ -46,7 +46,7 @@
     },
     {
       "id": 4,
-      "datum": "18-05-2020",
+      "controle_datum": "18-05-2020",
       "begin_tijd": "12.03.28",
       "eind_tijd": "17.27.00",
       "verbalisant": "160101",
@@ -60,7 +60,7 @@
     },
     {
       "id": 5,
-      "datum": "18-05-2020",
+      "controle_datum": "18-05-2020",
       "begin_tijd": "12.03.28",
       "eind_tijd": "17.27.00",
       "verbalisant": "2341005",
@@ -74,7 +74,7 @@
     },
     {
        "id": 6,
-      "datum": "18-05-2020",
+      "controle_datum": "18-05-2020",
       "begin_tijd": "10.03.28",
       "eind_tijd": "12.27.00",
       "verbalisant": "2341005",
